@@ -50,9 +50,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 - 🔗 [Project Repository](#)
 - ✨ Description: Another highlight-worthy project.
 
-*(Add links and descriptions to your favorite projects)*
 
----
 
 ## 📈 GitHub Stats
 
@@ -88,7 +86,7 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** who love
 ## 🛠️ Other Skills & Interests
 - UI/UX Design
 - Problem Solving
-- Artificial Development
+- Artificial Intelligence Development
 - Open Source Contribution
 
 ---
